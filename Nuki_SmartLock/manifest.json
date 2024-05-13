@@ -7,7 +7,7 @@
     }
   ],
   "codeowners": [
-    "@ronengr"
+    "@MTA111"
   ],
   "config_flow": true,
   "dependencies": [
